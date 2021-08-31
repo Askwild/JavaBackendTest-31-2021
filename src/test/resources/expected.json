@@ -1,0 +1,22 @@
+{
+  "data": {
+    "id": 153750373,
+    "url": "askwild24",
+    "bio": null,
+    "avatar": "https:\/\/imgur.com\/user\/askwild24\/avatar?maxwidth=290",
+    "avatar_name": "default\/A",
+    "cover": "https:\/\/imgur.com\/user\/askwild24\/cover?maxwidth=2560",
+    "cover_name": "default\/1-space",
+    "reputation": 1,
+    "reputation_name": "Neutral",
+    "created": 1629780839,
+    "pro_expiration": false,
+    "user_follow": {
+      "status": false
+    },
+    "is_blocked": false
+  },
+  "success": true,
+  "status": 200
+}
+
